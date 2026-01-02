@@ -10,10 +10,8 @@ Knight of Coins is a 2D adventure game where players control a valiant knight on
 
 - 🎮 Knight character with smooth movement controls
 - 💰 Coin collection system with score tracking
-- 🗺️ Multiple levels and challenges
 - 🎨 Custom pixel art assets
 - 🎵 Sound effects and background music
-- ⚔️ Combat mechanics (if applicable)
 
 ## 🛠️ Built With
 
@@ -60,12 +58,10 @@ knight-of-coins/
 
 ## 🎮 Controls
 
-> _Add your game controls here_
-> 
-> Example:
-> - **Arrow Keys / WASD** - Movement
-> - **Space** - Jump/Action
-> - **ESC** - Pause
+- **W** - Jump
+- **A** - Move Left
+- **D** - Move Right
+- **ESC** - Pause
 
 ## 📝 Development
 
