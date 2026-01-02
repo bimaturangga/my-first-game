@@ -39,7 +39,7 @@ knight-of-coins/
 
 1. Clone the repository
    ```bash
-   git clone https://github.com/bimaturangga/knight-of-coins.git
+   git clone https://github.com/bimaturangga/my-first-game.git
    ```
 
 2. Open Godot Engine
@@ -61,7 +61,6 @@ knight-of-coins/
 - **W** - Jump
 - **A** - Move Left
 - **D** - Move Right
-- **ESC** - Pause
 
 ## 📝 Development
 
